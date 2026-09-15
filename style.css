@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#email {
+    font-weight: bold;
+}
+
+#fone {
+    font-weight: bold;
+}
