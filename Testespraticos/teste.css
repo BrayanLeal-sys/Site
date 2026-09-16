@@ -1,0 +1,21 @@
+h1 {
+    color: black;
+}
+p {
+    color: red;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #000;
+}
+#aprendi {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size:  25px;
+}
+.futuro {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}

@@ -14,3 +14,17 @@ ul {
 #fone {
     font-weight: bold;
 }
+h3 ~ ul {
+    font-weight: bold;
+}
+ul ~ href {
+    font-weight: bold;
+}
+p > li {
+    font-weight: bold;
+    color: blue;
+}
+nav a {
+    color: blue;
+    font-weight: bold;
+}
