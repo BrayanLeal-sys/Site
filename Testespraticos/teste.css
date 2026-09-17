@@ -1,6 +1,7 @@
 h1 {
     color: black;
 }
+
 p {
     color: red;
     font-size: 25px;
@@ -8,14 +9,42 @@ p {
     padding: 10px;
     border: 2px solid #000;
 }
+
 #aprendi {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
-    font-size:  25px;
+    font-size: 25px;
 }
+
 .futuro {
     color: red;
     font-weight: bold;
     font-size: 20px;
+}
+
+.inline {
+    display: inline-block;
+    margin: 20px;
+}
+
+.block {
+    display: block;
+}
+.display-block {
+    display: block;
+    height: 200px;
+    background-color: blue;
+    border: 1px solid #000;
+}
+.display-inline {
+    display: inline;
+    border: 1px solid #000;
+    background-color: red;
+}
+.display-inline-block {
+    display: inline-block;
+    border: 2px;
+    background-color: forestgreen;
+    margin: 40px;
 }

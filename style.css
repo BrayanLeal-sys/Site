@@ -6,6 +6,9 @@ ul {
     color: blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.imagem{
+    width: 300px;
+}
 
 #email {
     font-weight: bold;
@@ -24,7 +27,8 @@ p > li {
     font-weight: bold;
     color: blue;
 }
-nav a {
+ul a {
+    display: inline-block;
     color: blue;
     font-weight: bold;
 }
